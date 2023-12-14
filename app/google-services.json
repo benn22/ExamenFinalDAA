@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535762355343",
+    "project_id": "examen-final-d3d28",
+    "storage_bucket": "examen-final-d3d28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535762355343:android:07e764155a50aa7cb95cfa",
+        "android_client_info": {
+          "package_name": "apps.isil.afinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO8-J1rHcSscBEdRmFVnSgYcAv8maTLuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
